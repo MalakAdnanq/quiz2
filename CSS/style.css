@@ -1,0 +1,10 @@
+.question{
+width: 400px;
+margin-right: auto;
+margin-left: auto;
+background-color: aquamarine;
+height: 100px;
+padding: 30px;
+text-align: center;
+box-shadow: 7px 7px 14px 1px rgb(71, 138, 115);
+}
